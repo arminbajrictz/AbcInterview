@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobile Assignment</string>
+    <string name="firstButt">My Location</string>
+    <string name="secondButt">Locations</string>
+    <string name="thirdButt">List</string>
+    <string name="details">Location</string>
+    <string name="conc">Contact Center</string>
+    <string name="hours">Work Hours</string>
+    <string name="add">Address</string>
+    <string name="email">Meeting Request</string>
+    <string name="web">Web Site</string>
+</resources>
